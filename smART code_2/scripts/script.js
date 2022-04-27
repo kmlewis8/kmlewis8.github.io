@@ -72,6 +72,7 @@ function Next() {
         image.src = "../images/basquiat.jpg";
     }
     else if (image.src.match("basquiat")) {
+        
         image.src = "../images/dogs.jpg";
     }
     else if (image.src.match("dogs")) {
